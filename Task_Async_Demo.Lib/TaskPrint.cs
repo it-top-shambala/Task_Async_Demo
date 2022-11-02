@@ -24,4 +24,9 @@ public static class TaskPrint
         var console = new ConsolePrint();
         TaskPrintAction(msg, console.PrintGreen, token);
     }
+
+    public static Task TaskPrintRedA(string msg, CancellationToken token)
+    {
+        return new Task(() => TaskPrintRed(msg, token), token);
+    }
 }
