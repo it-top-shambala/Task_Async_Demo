@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Async_Demo.App", "Task_Async_Demo.App\Task_Async_Demo.App.csproj", "{9452FE2B-7C56-4D01-BB2D-BBBCC0B20E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Async_Demo.Lib", "Task_Async_Demo.Lib\Task_Async_Demo.Lib.csproj", "{3A20C285-C823-492D-98BF-34E35D66860E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9452FE2B-7C56-4D01-BB2D-BBBCC0B20E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9452FE2B-7C56-4D01-BB2D-BBBCC0B20E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9452FE2B-7C56-4D01-BB2D-BBBCC0B20E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9452FE2B-7C56-4D01-BB2D-BBBCC0B20E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A20C285-C823-492D-98BF-34E35D66860E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A20C285-C823-492D-98BF-34E35D66860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A20C285-C823-492D-98BF-34E35D66860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A20C285-C823-492D-98BF-34E35D66860E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
